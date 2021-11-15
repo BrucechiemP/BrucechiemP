@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chiem Hoang Hung Phat
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Neuron Network
 - 📫 How to reach me: You can email me at hungphat.chh@gmail.com
 
 <!---
